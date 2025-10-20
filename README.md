@@ -81,13 +81,12 @@ This tool automatically:
 
 ## Why I'm Building This
 
-I'm an operations professional (8 years in cooperative logistics, retail ops, hospitality) transitioning into technical roles. Currently pursuing an Associate of Applied Science in AI Software Engineering at Maestro.
+I'm an operations professional (10+ years in cooperative logistics, retail ops, hospitality) transitioning into technical roles. Currently pursuing an Associate of Applied Science in AI Software Engineering at Maestro.
 
 This project:
-- Solves a problem I'm experiencing right now (mission-driven job searching is hard)
+- Solves a problem I'm experiencing right now
 - Helps others find meaningful work aligned with their values
 - Lets me learn by building something real and useful
-- Shows potential employers I can ship working products
 
 ## Values & Mission Categories
 
