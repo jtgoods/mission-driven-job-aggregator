@@ -26,7 +26,6 @@ This tool automatically:
 
 **Phase 1 (Starting Soon):** Basic Python scraper
 - Learning Python fundamentals in Maestro Term 1
-- Will begin coding when MacBook arrives
 - Target: Working MVP by December 2025
 
 ## Roadmap
@@ -122,8 +121,7 @@ MIT License - Use this code however you want!
 
 **Development Log:**
 - **Oct 19, 2025:** Created repository, wrote project vision
-- **Oct 21, 2025:** Starting Maestro Term 1 (Python fundamentals)
-- **Nov 2025:** Waiting for MacBook to begin actual development
+- **Oct 20, 2025:** Starting Maestro Term 1 (Python fundamentals)
 - _(Will update as I make progress)_
 
 ---
